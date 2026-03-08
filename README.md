@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I'm Parveen :woman_raising_hand:
+• Hi, I'm Parveen :woman_raising_hand:
 
-:laptop: Aspiring Front-End Developer  
-:books: Currently learning HTML and CSS  
-:rocket: Building small web projects to improve my skills  
+💻 Aspiring Front-End Developer  
+📚 Currently learning HTML and CSS  
+🚀 Building small web projects to improve my skills  
 
-## Skills
+• Skills
 - HTML
 - CSS
 
-## Currently Learning
+• Currently Learning
 - Responsive Design
 - JavaScript (next step)
 
-## Goals
+• Goals
 Become a professional front-end developer and build real web applications.
